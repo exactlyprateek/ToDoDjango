@@ -1,7 +1,7 @@
 # ToDoDjango
 
 A simple ToDoApp api, because why not
-### Installation
+### Installation - Windows
 ```
 mkdir todoapp
 virtualenv env
