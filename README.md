@@ -3,7 +3,13 @@
 A simple ToDoApp api, because why not
 ### Installation
 ```
-pip install -r requirements.txt
+mkdir todoapp
+virtualenv env
+cd env
+./scripts/activate
+git clone https://github.com/exactlyprateek/ToDoDjango.git
+cd tododjango
+pip install -r requirements.py
 python manage.py runserver
 ```
 ### API Overview
