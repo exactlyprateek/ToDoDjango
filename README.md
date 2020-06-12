@@ -9,7 +9,7 @@ cd env
 ./scripts/activate
 git clone https://github.com/exactlyprateek/ToDoDjango.git
 cd tododjango
-pip install -r requirements.py
+pip install -r requirements.txt
 python manage.py runserver
 ```
 ### API Overview
